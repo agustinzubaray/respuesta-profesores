@@ -7,9 +7,8 @@ body {
 }
 
 .tabla {
-    position: static;
-    bottom: 0;
     width: 100%;
     height: 100px;
-    margin-top: 550px;
+    bottom: 0;
+    position: fixed;
 }
