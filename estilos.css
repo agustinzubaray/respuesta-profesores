@@ -1,0 +1,11 @@
+body {
+    background-image: url('./assets/river2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+.tabla {
+    align-content: flex-end;
+}
